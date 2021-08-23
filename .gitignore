@@ -7,7 +7,3 @@ obj/
 
 # Debug files
 *.pdb
-
-# Others
-/tests
-*.txt
